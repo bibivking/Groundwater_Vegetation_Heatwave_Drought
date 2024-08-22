@@ -4,7 +4,7 @@
 
 ## Overview
 
-Repository containing all the code to reproduce the results in Mu et al. (2021) Exploring how groundwater buffers the influence of heatwaves on vegetation function during multi-year droughts. Earth System Dynamics, accepted.
+Repository containing all the code to reproduce the results in Mu, M., De Kauwe, M. G., Ukkola, A. M., Pitman, A. J., Guo, W., Hobeichi, S., and Briggs, P. R.: Exploring how groundwater buffers the influence of heatwaves on vegetation function during multi-year droughts, Earth Syst. Dynam., 12, 919–938, https://doi.org/10.5194/esd-12-919-2021, 2021.
 
 [![DOI](https://zenodo.org/badge/392602468.svg)](https://zenodo.org/badge/latestdoi/392602468)
 
